@@ -15,8 +15,8 @@ From 2021 to 2023, I was a researcher in the R&D Group at Hitachi, Ltd. (Japan),
 > 
 > ### Highlights
 >
-> - **Impact:** Published in ACL / EMNLP / EACL / Computational Linguistics / TMLR (first-author); ICML / NeurIPS / ACL / COLING (co-author)
+> - **Impact:** Published in ACL / EMNLP / EACL / Computational Linguistics / TMLR (first-author); ICML / NeurIPS / ACL / EMNLP / COLM / COLING (co-author)
 > - **Industry experience:** ~3 years of full-time R&D @ Hitachi, Ltd.
 > - **Leadership:** EACL 2026 SRW Chair & ARR Support Team
-> - **Award-winning:** Multi-time ARR Outstanding Reviewer & Nominated for University of Sheffield Teaching Support Award
+> - **Award-winning:** COLM 2026 Outstanding Paper Award (3 out of 856 accepted submissions), Multi-time ARR Outstanding Reviewer, Sheffield's School of Computer Science Team Player Award, & Nominated for University of Sheffield Teaching Support Award
 > - **Research:** Efficient Pre-training & Cross-lingual Transfer
