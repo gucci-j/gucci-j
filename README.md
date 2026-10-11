@@ -7,7 +7,7 @@ From 2021 to 2023, I was a researcher in the R&D Group at Hitachi, Ltd. (Japan),
 > [!Important]
 > I am planning to submit my thesis in **March 2027** (or before) and am officially entering the job market.
 >
-> I am primarily seeking **Faculty positions starting April 2027**. I am also open to **Research Fellow, Post-doc, or Research Scientist** roles.
+> I am primarily seeking **Faculty positions starting April 2027**. I am also open to **Research Fellow or Research Scientist** roles.
 > 
 > 💡 **Note**: An earlier start date (after September 2026) is feasible upon thesis submission.
 > 
